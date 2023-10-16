@@ -13,7 +13,7 @@ export default function Home() {
                 Our political view is libertarian/ancap, we believe in the trade society, so, our guide is: Freedom.
             </p>
             <p className='text-white mt-5 font-bold text-2xl'>
-                We won't accept:
+                We won&apos;t accept:
             </p>
             <p className='text-white mt-2'>
                   Non Western people
