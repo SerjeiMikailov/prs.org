@@ -7,10 +7,10 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center mt-40">
             <h1 className="text-6xl text-white font-bold mb-5">About Our Foundation</h1>
             <p className='text-white mt-20'>
-                Our foundation was officially created about 7 years ago, in a successful try to create a Companions Guild. Today, our thinks are about philanthropy, philosophical and society stuff.
+                Our foundation was officially established approximately 7 years ago with the aim of creating a Companions Guild. Today, our focus lies in philanthropy, philosophy, and societal matters.
             </p>
             <p className='text-white mt-1'>
-                Our political view is libertarian/ancap, we believe in the trade society, so, our guide is: Freedom.
+                Politically, we align with libertarian/ancap principles, emphasizing the importance of a free trade society. Our guiding principle is freedom.
             </p>
             <p className='text-white mt-5 font-bold text-2xl'>
                 We won&apos;t accept:
